@@ -1,0 +1,2 @@
+*** 12/6/2017: Copy from D:\Documents\final\ to D:\Java\ ***
+7:30:36 PM Copying D:\Documents\final\Church Managements System\derby.log : Access is denied
